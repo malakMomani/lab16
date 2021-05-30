@@ -1,6 +1,6 @@
 # lab16
 
-[AWS Deployed Link](Lab16-env.eba-hi8gdipc.us-east-1.elasticbeanstalk.com)
+[AWS Deployed Link](http://lab16-env.eba-hi8gdipc.us-east-1.elasticbeanstalk.com/)
 
 **STEPS :**
 
